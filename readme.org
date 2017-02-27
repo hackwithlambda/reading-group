@@ -1,11 +1,15 @@
-#+TITLE: READING GROUP
+#+TITLE: Haskell Reading Group
 
-- program calc
-- wadler's original monad paper
-- fp with bananas
-- deforestation
-- paterson, applicatives
-- bird, calculating a sudoku solver
-- hutton, tutorial on fold
-- http://themattchan.com/blog/fp-resources.html
-- [[http://www4.di.uminho.pt/~mac/Publications/phd.pdf][Point-free Program Calculation]]
+- [[http://www.cse.chalmers.se/~rjmh/Papers/whyfp.pdf][Hughes. Why functional programming matters.]]
+- [[https://page.mi.fu-berlin.de/scravy/realworldhaskell/materialien/the-essence-of-functional-programming.pdf][Wadler. The essence of functional programming]]
+- [[http://www.staff.city.ac.uk/~ross/papers/Applicative.pdf][McBride and Paterson. Applicative programming with effects]]
+- [[http://www.eliza.ch/doc/meijer91functional.pdf][Meijer, Fokkinga, and Paterson. Functional Programming with Bananas, Lenses, Envelopes and Barbed Wire]]
+- [[http://www.cs.nott.ac.uk/~pszgmh/fold.pdf][Hutton. A tutorial on the universality and expressiveness of fold]]
+- [[https://people.mpi-sws.org/~dreyer/tor/papers/wadler.pdf][Wadler. Theorems for free!]]
+- [[http://www.cs.tufts.edu/~nr/cs257/archive/richard-bird/sudoku.pdf][Bird. A program to solve Sudoku]]
+- [[http://www.cs.nott.ac.uk/~pszgmh/countdown.pdf][Hutton. The countdown problem.]]
+- [[http://www4.di.uminho.pt/~mac/Publications/phd.pdf][Cunha. Point-free Program Calculation]]
+- [[http://ac.els-cdn.com/030439759090147A/1-s2.0-030439759090147A-main.pdf?_tid=77caccdc-fcac-11e6-968b-00000aacb35d&acdnat=1488173015_5ee058d8bb962798340f34943f4c6c4b][Wadler. Deforestation: transforming programs to eliminate trees]]
+- [[http://www.cs.ru.nl/~W.Swierstra/Publications/DataTypesALaCarte.pdf][Swierstra. Data types a la carte]]
+- [[http://www.cs.nott.ac.uk/~psztxa/publ/beast.pdf][Swierstra and Altenkirch. Beauty in the Beast.]]
+- [[http://www.cs.nott.ac.uk/~pszgmh/alacarte.pdf][Day and Hutton. Compilation a la Carte]]
