@@ -1,0 +1,11 @@
+#+TITLE: READING GROUP
+
+- program calc
+- wadler's original monad paper
+- fp with bananas
+- deforestation
+- paterson, applicatives
+- bird, calculating a sudoku solver
+- hutton, tutorial on fold
+- http://themattchan.com/blog/fp-resources.html
+- [[http://www4.di.uminho.pt/~mac/Publications/phd.pdf][Point-free Program Calculation]]
