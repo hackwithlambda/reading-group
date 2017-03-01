@@ -7,7 +7,8 @@
   + [[http://www.cs.nott.ac.uk/~pszgmh/countdown.pdf][Hutton. The countdown problem.]]
 - Week 3: folds
   + [[http://www.cs.nott.ac.uk/~pszgmh/fold.pdf][Hutton. A tutorial on the universality and expressiveness of fold]]
-- Week 4: monads
+- Week 4: monads (and typeclasses)
+  + [[http://people.csail.mit.edu/dnj/teaching/6898/papers/wadler88.pdf][Wadler and Blott. How to make ad-hoc polymorphism less ad-hoc.]]
   + [[https://page.mi.fu-berlin.de/scravy/realworldhaskell/materialien/the-essence-of-functional-programming.pdf][Wadler. The essence of functional programming]]
 - Week 5: applicatives
   + [[http://www.staff.city.ac.uk/~ross/papers/Applicative.pdf][McBride and Paterson. Applicative programming with effects]]
@@ -28,7 +29,6 @@ extras
 - [[https://www.st.cs.uni-saarland.de/edu/seminare/2005/advanced-fp/docs/huet-zipper.pdf][Huet. The Zipper]]
 - [[http://strictlypositive.org/diff.pdf][McBride. The Derivative of a Regular Type is its Type of One-Hole Contexts]]
 - [[http://strictlypositive.org/CJ.pdf][McBride. Clowns to the left of me, jokers to the right.]]
-- [[http://people.csail.mit.edu/dnj/teaching/6898/papers/wadler88.pdf][Wadler and Blott. How to make ad-hoc polymorphism less ad-hoc.]]
 - [[https://rkrishnan.org/files/wadler-1985.pdf][Wadler. How to replace failure by a list of successes.]]
 - [[http://homepages.inf.ed.ac.uk/wadler/papers/prettier/prettier.pdf][Wadler. A prettier printer.]]
 - [[http://www.cs.nott.ac.uk/~pszgmh/alacarte.pdf][Day and Hutton. Compilation a la Carte]]
