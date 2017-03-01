@@ -13,6 +13,8 @@
   + [[http://www.staff.city.ac.uk/~ross/papers/Applicative.pdf][McBride and Paterson. Applicative programming with effects]]
 6. typeclasses and the typeclass hierarchy
   + [[http://people.csail.mit.edu/dnj/teaching/6898/papers/wadler88.pdf][Wadler and Blott. How to make ad-hoc polymorphism less ad-hoc.]]
+  + https://wiki.haskell.org/Typeclassopedia
+  + Semigroup, Monoid, Arrow, Category, [[Https://hackage.haskell.org/package/comonad][Comonad]], and the other typeclasses by Edward Kmett
 7. parametricity and program calculation
   + [[https://people.mpi-sws.org/~dreyer/tor/papers/wadler.pdf][Wadler. Theorems for free!]]
   + maybe? [[http://www4.di.uminho.pt/~mac/Publications/phd.pdf][Cunha. Point-free Program Calculation]]
