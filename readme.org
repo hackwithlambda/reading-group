@@ -1,7 +1,7 @@
 #+TITLE: Haskell Reading Group
 
 - Week 1: intro, basics [[http://www.cse.chalmers.se/~rjmh/Papers/whyfp.pdf][Hughes. Why functional programming matters.]]
-- Week 2: examples
+- Week 2: the elegance of functional programming
   + [[http://www.cs.tufts.edu/~nr/cs257/archive/richard-bird/sudoku.pdf][Bird. A program to solve Sudoku]]
   + [[http://www.cs.nott.ac.uk/~pszgmh/countdown.pdf][Hutton. The countdown problem.]]
 - Week 3: folds [[http://www.cs.nott.ac.uk/~pszgmh/fold.pdf][Hutton. A tutorial on the universality and expressiveness of fold]]
