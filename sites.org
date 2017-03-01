@@ -1,0 +1,16 @@
+#+TITLE: Haskell websites/weblogs
+
+Weblogs/people
+- [[http://blog.ezyang.com][EZ Yang]]
+- [[http://chrisdone.com/archive][Chris Done]]
+- [[http://www.haskellforall.com/][Haskell for all]] (Gabriel Gonzalez)
+- [[http://apfelmus.nfshost.com/blog.html][Apfelmus]]
+
+Discussion/Social
+- [[https://www.reddit.com/r/haskell][/r/haskell]]
+- [[https://wiki.haskell.org/Mailing_lists][Haskell mailing lists]]
+- [[https://wiki.haskell.org/IRC_channel][IRC channel]] (#haskell)
+
+Misc
+- [[http://www.haskellcast.com][The Haskell Cast]] (podcast)
+- [[https://planet.haskell.org][Planet Haskell]] (blog aggregator)
