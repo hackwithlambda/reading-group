@@ -1,28 +1,29 @@
 #+TITLE: Haskell Reading Group
 
-- Week 1: intro, basics
+1. intro, basics
   + [[http://www.cse.chalmers.se/~rjmh/Papers/whyfp.pdf][Hughes. Why functional programming matters.]]
-- Week 2: the elegance of functional programming
+2. the elegance of functional programming
   + [[http://www.cs.tufts.edu/~nr/cs257/archive/richard-bird/sudoku.pdf][Bird. A program to solve Sudoku]]
   + [[http://www.cs.nott.ac.uk/~pszgmh/countdown.pdf][Hutton. The countdown problem.]]
-- Week 3: folds
+3. folds
   + [[http://www.cs.nott.ac.uk/~pszgmh/fold.pdf][Hutton. A tutorial on the universality and expressiveness of fold]]
-- Week 4: monads (and typeclasses)
-  + [[http://people.csail.mit.edu/dnj/teaching/6898/papers/wadler88.pdf][Wadler and Blott. How to make ad-hoc polymorphism less ad-hoc.]]
+4. monads (and typeclasses)
   + [[https://page.mi.fu-berlin.de/scravy/realworldhaskell/materialien/the-essence-of-functional-programming.pdf][Wadler. The essence of functional programming]]
-- Week 5: applicatives
+5. applicatives
   + [[http://www.staff.city.ac.uk/~ross/papers/Applicative.pdf][McBride and Paterson. Applicative programming with effects]]
-- Week 6: parametricity and program calculation
+6. typeclasses and the typeclass hierarchy
+  + [[http://people.csail.mit.edu/dnj/teaching/6898/papers/wadler88.pdf][Wadler and Blott. How to make ad-hoc polymorphism less ad-hoc.]]
+7. parametricity and program calculation
   + [[https://people.mpi-sws.org/~dreyer/tor/papers/wadler.pdf][Wadler. Theorems for free!]]
   + maybe? [[http://www4.di.uminho.pt/~mac/Publications/phd.pdf][Cunha. Point-free Program Calculation]]
-- Week 7: program calculation, contd
+8. program calculation, contd
   + [[http://www.eliza.ch/doc/meijer91functional.pdf][Meijer, Fokkinga, and Paterson. Functional Programming with Bananas, Lenses, Envelopes and Barbed Wire]]
-- Week 8: fusion and optimisation
+9. fusion and optimisation
   + [[http://ac.els-cdn.com/030439759090147A/1-s2.0-030439759090147A-main.pdf?_tid=77caccdc-fcac-11e6-968b-00000aacb35d&acdnat=1488173015_5ee058d8bb962798340f34943f4c6c4b][Wadler. Deforestation: transforming programs to eliminate trees]]
-- Week 9: DSL embeddings
+10. DSL embeddings
   + [[http://www.cs.ru.nl/~W.Swierstra/Publications/DataTypesALaCarte.pdf][Swierstra. Data types a la carte]]
   + [[http://www.cs.nott.ac.uk/~psztxa/publ/beast.pdf][Swierstra and Altenkirch. Beauty in the Beast.]]
-- Week 10: DSLs, contd
+11. DSLs, contd
   + [[http://okmij.org/ftp/tagless-final/JFP.pdf][Carette, Kiselyov, and Shan. Finally Tagless, Partially Evaluated]]
 
 extras
