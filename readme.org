@@ -25,4 +25,11 @@
   + [[http://okmij.org/ftp/tagless-final/JFP.pdf][Carette, Kiselyov, and Shan. Finally Tagless, Partially Evaluated]]
 
 extras
+- [[https://www.st.cs.uni-saarland.de/edu/seminare/2005/advanced-fp/docs/huet-zipper.pdf][Huet. The Zipper]]
+- [[http://strictlypositive.org/diff.pdf][McBride. The Derivative of a Regular Type is its Type of One-Hole Contexts]]
+- [[http://strictlypositive.org/CJ.pdf][McBride. Clowns to the left of me, jokers to the right.]]
+- [[http://people.csail.mit.edu/dnj/teaching/6898/papers/wadler88.pdf][Wadler and Blott. How to make ad-hoc polymorphism less ad-hoc.]]
+- [[https://rkrishnan.org/files/wadler-1985.pdf][Wadler. How to replace failure by a list of successes.]]
+- [[http://homepages.inf.ed.ac.uk/wadler/papers/prettier/prettier.pdf][Wadler. A prettier printer.]]
 - [[http://www.cs.nott.ac.uk/~pszgmh/alacarte.pdf][Day and Hutton. Compilation a la Carte]]
+- https://wiki.haskell.org/Research_papers/Functional_pearls
