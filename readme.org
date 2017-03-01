@@ -1,7 +1,7 @@
 #+TITLE: Haskell Reading Group
 
 1. why functional programming is the correct way to program
-  + [[http://www.cse.chalmers.se/~rjmh/Papers/whyfp.pdf][Hughes. Why functional programming matters.]]
+  + [[http://www.cse.chalmers.se/~rjmh/Papers/whyfp.pdf][Hughes. Why functional programming matters.]] [[https://www.youtube.com/watch?v=1qBHf8DrWR8][(talk)]]
   + optional [[https://www.cs.cmu.edu/~crary/819-f09/Landin66.pdf][Landin. The next 700 programming languages]]
   + optional [[https://www.cs.cmu.edu/~crary/819-f09/Backus78.pdf][Backus. Can Programming Be Liberated from the von Neumann Style?]]
 2. the elegance of functional programming
