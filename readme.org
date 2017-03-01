@@ -1,7 +1,9 @@
 #+TITLE: Haskell Reading Group
 
-1. intro, basics
+1. why functional programming is the correct way to program
   + [[http://www.cse.chalmers.se/~rjmh/Papers/whyfp.pdf][Hughes. Why functional programming matters.]]
+  + optional [[https://www.cs.cmu.edu/~crary/819-f09/Landin66.pdf][Landin. The next 700 programming languages]]
+  + optional [[https://www.cs.cmu.edu/~crary/819-f09/Backus78.pdf][Backus. Can Programming Be Liberated from the von Neumann Style?]]
 2. the elegance of functional programming
   + [[http://www.cs.tufts.edu/~nr/cs257/archive/richard-bird/sudoku.pdf][Bird. A program to solve Sudoku]]
   + [[http://www.cs.nott.ac.uk/~pszgmh/countdown.pdf][Hutton. The countdown problem.]]
@@ -35,4 +37,6 @@ extras
 - [[https://rkrishnan.org/files/wadler-1985.pdf][Wadler. How to replace failure by a list of successes.]]
 - [[http://homepages.inf.ed.ac.uk/wadler/papers/prettier/prettier.pdf][Wadler. A prettier printer.]]
 - [[http://www.cs.nott.ac.uk/~pszgmh/alacarte.pdf][Day and Hutton. Compilation a la Carte]]
+- [[https://www.cs.cmu.edu/~crary/819-f09/DamasMilner82.pdf][Damas and Milner. Principal type-schemes for functional programs.]]
 - https://wiki.haskell.org/Research_papers/Functional_pearls
+- https://www.cs.cmu.edu/~crary/819-f09/
