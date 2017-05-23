@@ -24,7 +24,7 @@
   + [[https://people.mpi-sws.org/~dreyer/tor/papers/wadler.pdf][Wadler. Theorems for free!]]
   + maybe? [[http://www4.di.uminho.pt/~mac/Publications/phd.pdf][Cunha. Point-free Program Calculation]]
 8. program calculation, contd
-  + [[http://www.eliza.ch/doc/meijer91functional.pdf][Meijer, Fokkinga, and Paterson. Functional Programming with Bananas, Lenses, Envelopes and Barbed Wire]]
+  + [[http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.41.125&rep=rep1&type=pdf][Meijer, Fokkinga, and Paterson. Functional Programming with Bananas, Lenses, Envelopes and Barbed Wire]]
 9. fusion and optimisation
   + [[http://ac.els-cdn.com/030439759090147A/1-s2.0-030439759090147A-main.pdf?_tid=77caccdc-fcac-11e6-968b-00000aacb35d&acdnat=1488173015_5ee058d8bb962798340f34943f4c6c4b][Wadler. Deforestation: transforming programs to eliminate trees]]
 10. DSL embeddings
